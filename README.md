@@ -3,7 +3,7 @@
 Aplicación web para gestión de turnos y clientes de barbería.
 
 ## 🔗 Ver app en vivo
-[Abrir app](https://wascarelia8-lang.github.io/[nombre-repo]/diego-barberapp_8.html)
+[Abrir app](https://wascarelia8-lang.github.io/diego-barberapp/diego-barberapp_8.html)
 
 ## ✨ Funciones
 - Login y registro de usuarios
@@ -17,3 +17,6 @@ Aplicación web para gestión de turnos y clientes de barbería.
 
 ## ⚠️ Nota
 Requiere configuración de Supabase para funcionar completamente.
+
+## 👤 Autor
+[wascarelia8-lang](https://github.com/wascarelia8-lang)
